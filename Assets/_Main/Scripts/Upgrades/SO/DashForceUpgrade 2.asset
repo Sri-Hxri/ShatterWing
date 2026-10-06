@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157db716cd998cc47b1ded90eae8d482, type: 3}
+  m_Name: DashForceUpgrade 2
+  m_EditorClassIdentifier: Assembly-CSharp::DashForceUpgrade
+  upgradeName: Dash Volley II
+  icon: {fileID: 21300000, guid: 3d9d0345030e5724c9c9b81001f376ca, type: 3}
+  description: '+3 dash speed.
+
+    Reach safety with each dash volley.'
+  rarity: 2
+  category: 2
+  minLevel: 5
+  maxRanks: 1
+  bonus: 3

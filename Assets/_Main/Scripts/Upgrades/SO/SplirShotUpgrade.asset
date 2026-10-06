@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aeb0c6cf8b5d1f49ac78e012001be68, type: 3}
+  m_Name: SplirShotUpgrade
+  m_EditorClassIdentifier: Assembly-CSharp::SplitShotUpgrade
+  upgradeName: Shrapnel
+  icon: {fileID: 21300000, guid: 90c1210a5d196664e9a694740a135800, type: 3}
+  description: 'Hits release two short-range shards.
+
+    Each shard deals 1 damage.'
+  rarity: 2
+  category: 0
+  minLevel: 6
+  maxRanks: 1
